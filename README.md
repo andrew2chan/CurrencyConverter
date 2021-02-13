@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Made with React. Demo here: https://andrew2chan.github.io/CurrencyConverter/
+Made with React.
 
 ## Available Scripts
 
